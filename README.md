@@ -8,3 +8,5 @@ Virtual Code Innovate is a 2-3 day online event where Oracle engineers will code
 
 [![Chip](..img/chip.png)](https://www.youtube.com/watch?v=haHgmQsTA9Y "Chip")
 
+  <video src="https://www.youtube.com/watch?v=haHgmQsTA9Y" width="320" height="200" controls preload></video>
+
