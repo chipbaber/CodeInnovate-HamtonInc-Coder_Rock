@@ -26,8 +26,8 @@ Virtual Code Innovate is a 2-3 day online event where Oracle engineers will code
 
 **Meet The Oracle Team**
 
-| Name | Role | Expertise | Linkedin | Leisure Interests|
-|---|---|---|---|---| 
-| Chip Baber | Event Director | Lead and Motivate Teams | [Chip Baber](https://www.linkedin.com/in/chipbaber) | ???|
-| Derrick Cameron | Engineering Team Lead | Analytics, Data Integration, ML, Database | [Derrick Cameron](https://www.linkedin.com/in/derrick-cameron-b96408) | Squash!, Hiking, Yard Stuff |
-| Steve Nichols | Engineering Team Lead | OCI, Analytics, Database, ... | | Running, Family |
+| Name | Role | Expertise | Linkedin | Leisure Interests| Image |
+|---|---|---|---|---|---|
+| Chip Baber | Event Director | Lead and Motivate Teams | [Chip Baber](https://www.linkedin.com/in/chipbaber) | ???| |
+| Derrick Cameron | Engineering Team Lead | Analytics, Data Integration, ML, Database | [Derrick Cameron](https://www.linkedin.com/in/derrick-cameron-b96408) | Squash!, Hiking, Yard Stuff | [](img/derrick.jpg)
+| Steve Nichols | Engineering Team Lead | OCI, Analytics, Database, ... | | Running, Family | |
