@@ -1,4 +1,4 @@
-<img src="img/ci_header.png" width="100%">
+<img src="../img/ci_header.png" width="100%">
 
 # Final Presentation Recordings
 <a href="https://otube.oracle.com/media/Motorola+Code+Innovate+-+Team+Expelliarmus+Bot/1_8hcd5po2" target="ExpelliarmusBot" >
