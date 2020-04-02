@@ -14,7 +14,7 @@ Leisure Activities:
 ---
  [Linkedin](https://www.linkedin.com/in/derrick-cameron-b96408)
 
-![thumbnail of promo](img/derrick.jpg)
+![thumbnail of promo](img/derrick.png)
  
  Bio:
 
