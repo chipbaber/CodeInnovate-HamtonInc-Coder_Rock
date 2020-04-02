@@ -1,6 +1,6 @@
-**Get to Know our Engineers**
+##Get to Know our Engineers
 
-Chip Baber - Event Director
+**Chip Baber - Event Director**
 
 [Linkedin](https://www.linkedin.com/in/chipbaber)
 
@@ -10,13 +10,22 @@ Bio:
 
 Leisure Activities:
 
- Derrick Cameron - Engineering Team Lead
+ **Derrick Cameron - Engineering Team Lead**
 
  [Linkedin](https://www.linkedin.com/in/derrick-cameron-b96408)
 
-  ![](img/derrick.png)
+![thumbnail of promo](img/derrick.png)
  
  Bio:
 
  Leisure Activities:
 
+ **Steven Nichols - Engineering Team Lead**
+
+ [Linkedin](https://www.linkedin.com/in/steve-nichols-820b634)
+
+![thumbnail of promo](img/steve.png)
+ 
+ Bio:
+
+ Leisure Activities:
