@@ -4,7 +4,7 @@
 ---
 [Linkedin](https://www.linkedin.com/in/chipbaber)
 
-![thumbnail of promo](img/chip.png)
+![thumbnail of promo](img/chipb.png)
 
 Bio:
 
