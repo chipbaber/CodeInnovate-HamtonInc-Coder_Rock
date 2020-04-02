@@ -4,9 +4,7 @@ Chip Baber - Event Director
 
 [Linkedin](https://www.linkedin.com/in/chipbaber)
 
- ![](img/chip.png)
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![thumbnail of promo](img/chip.png)
 
 Bio:
 
