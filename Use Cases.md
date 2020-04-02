@@ -1,3 +1,5 @@
+<img src="img/ci_header.png" width="100%">
+
 # Use Case Details:
 
 **2-4-2020 Use Case email from Vertika:**
