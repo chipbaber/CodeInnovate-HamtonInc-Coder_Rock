@@ -2,24 +2,23 @@
 
 Chip Baber - Event Director
 
-[Chip Baber](https://www.linkedin.com/in/chipbaber)
+[Linkedin](https://www.linkedin.com/in/chipbaber)
 
- <img src="img/chip.png">
+ ![](img/chip.png)
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Bio:
 
 Leisure Activities:
 
- | Lead and Motivate Teams | [Chip Baber](https://www.linkedin.com/in/chipbaber) | ???| |
-
  Derrick Cameron - Engineering Team Lead
 
  [Linkedin](https://www.linkedin.com/in/derrick-cameron-b96408)
 
- <img src="img/derrick.png">
+  ![](img/derrick.png)
  
  Bio:
 
  Leisure Activities:
 
- 
