@@ -1,5 +1,3 @@
-<img src="img/ci_header.png" width="100%">
-
 ## Oracle Analytics Cloud and Machine Learning 
 
 1. **Oracle Analytics Cloud**
