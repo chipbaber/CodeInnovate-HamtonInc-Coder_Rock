@@ -25,3 +25,5 @@ Virtual Code Innovate is a 2-3 day online event where Oracle engineers will code
 | | Move Forward with Use Cases | |
 
 **[Meet the Team!](team.md)**
+
+**[Kickoff](Kickoff.pdf)**
