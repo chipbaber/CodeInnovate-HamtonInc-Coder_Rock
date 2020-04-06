@@ -19,6 +19,15 @@
 *.rar
 *.tar
 *.zip
+*.war
+*.ear
+
+# Videos or large File types #
+##############################
+*.mp4
+*.mov
+*.wav
+
 
 # Logs and databases #
 ######################
@@ -42,7 +51,7 @@ Thumbs.db
 nbproject
 .~lock.*
 .buildpath
-.idea
+*.idea
 .project
 .settings
 composer.lock
