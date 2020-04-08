@@ -26,6 +26,4 @@ Sounds Interesting..
 | Post Event | Engage With Oracle Engineering | |
 | | Move Forward with Use Cases | |
 
-**[Meet the Team!](team.md)**
-
-**[Kickoff](Kickoff.pdf)**
+**[Meet Your Oracle Support Team!](team.md)**
