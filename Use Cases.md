@@ -2,12 +2,3 @@
 
 ## Use Case Details:
 
-**Timeline**
-
-| Date | Details |
-|--- |--- |
-| 6-1-2020 | Details...|
-| | |
-| | |
-| | |
-| | |
